@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "UnhHtlD1K6KDdH8Pn8wXA8uCKa2KEWPcqnE4J4M2qNzCREYZp4y469OhsjwyP9yFlet/7vSpWbnb6e0gs1VotQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\hector.mcewen\\Desktop\\Prog 2\\RESTAPI_TEST\\RESTAPI_TEST\\RESTAPI_TEST.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hector.mcewen\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\hector.mcewen\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\hector.mcewen\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

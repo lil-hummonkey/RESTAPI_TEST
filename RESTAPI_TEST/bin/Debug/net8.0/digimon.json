@@ -1,0 +1,170 @@
+{
+    "id": 27,
+    "name": "Sand Yanmamon",
+    "xAntibody": false,
+    "images": [
+        {
+            "href": "https://digimon-api.com/images/digimon/w/Sand_Yanmamon.png",
+            "transparent": false
+        }
+    ],
+    "levels": [
+        {
+            "id": 7,
+            "level": "Child"
+        },
+        {
+            "id": 3,
+            "level": "Adult"
+        }
+    ],
+    "types": [
+        {
+            "id": 17,
+            "type": "Insect"
+        }
+    ],
+    "attributes": [
+        {
+            "id": 6,
+            "attribute": "Data"
+        },
+        {
+            "id": 4,
+            "attribute": "Virus"
+        }
+    ],
+    "fields": [
+        {
+            "id": 1,
+            "field": "Nature Spirits",
+            "image": "https://digimon-api.com/images/etc/fields/Nature Spirits.png"
+        }
+    ],
+    "releaseDate": "1999",
+    "descriptions": [
+        {
+            "origin": "reference_book",
+            "language": "jap",
+            "description": "砂漠に生息しているヤンマモンの一種。ヤンマモンと違ってノンビリ屋な性格だが、自分の縄張りに入ってくるデジモンに対しては手加減しない。必殺技は、強力な羽ばたきで小さな砂嵐を起こす「デザードウィンド」。 "
+        },
+        {
+            "origin": "reference_book",
+            "language": "en_us",
+            "description": "A species of Yanmamon that lives in the desert. Unlike Yanmamon, it has a carefree personality, but is merciless against Digimon that enter its territory. Its Special Move is generating a small sandstorm by flapping its wings intensely (Desert Wind). "
+        }
+    ],
+    "skills": [
+        {
+            "id": 81,
+            "skill": "Mega Blaster",
+            "translation": "",
+            "description": " "
+        },
+        {
+            "id": 82,
+            "skill": "Polymer Touch",
+            "translation": "",
+            "description": "Adds stun effects to attack. "
+        },
+        {
+            "id": 83,
+            "skill": "Bottom Cutter",
+            "translation": "",
+            "description": "Cuts the enemy with its tail. "
+        },
+        {
+            "id": 79,
+            "skill": "Flyin' Break",
+            "translation": "",
+            "description": "Rams the enemy while spinning. "
+        },
+        {
+            "id": 80,
+            "skill": "Desert Wind",
+            "translation": "",
+            "description": "Generates a small sandstorm by flapping its wings intensely. "
+        }
+    ],
+    "priorEvolutions": [
+        {
+            "id": 885,
+            "digimon": "Dokunemon",
+            "condition": "",
+            "image": "https://digimon-api.com/images/digimon/w/Dokunemon.png",
+            "url": "https://digimon-api.com/api/v1/digimon/885"
+        },
+        {
+            "id": 1073,
+            "digimon": "Wormmon",
+            "condition": "",
+            "image": "https://digimon-api.com/images/digimon/w/Wormmon.png",
+            "url": "https://digimon-api.com/api/v1/digimon/1073"
+        },
+        {
+            "id": 412,
+            "digimon": "Tentomon",
+            "condition": "",
+            "image": "https://digimon-api.com/images/digimon/w/Tentomon.png",
+            "url": "https://digimon-api.com/api/v1/digimon/412"
+        },
+        {
+            "id": 983,
+            "digimon": "Betamon (X-Antibody)",
+            "condition": "",
+            "image": "https://digimon-api.com/images/digimon/w/Betamon_(X-Antibody).png",
+            "url": "https://digimon-api.com/api/v1/digimon/983"
+        },
+        {
+            "id": 1162,
+            "digimon": "Candmon",
+            "condition": "",
+            "image": "https://digimon-api.com/images/digimon/w/Candmon.png",
+            "url": "https://digimon-api.com/api/v1/digimon/1162"
+        },
+        {
+            "id": 1034,
+            "digimon": "Betamon",
+            "condition": "",
+            "image": "https://digimon-api.com/images/digimon/w/Betamon.png",
+            "url": "https://digimon-api.com/api/v1/digimon/1034"
+        }
+    ],
+    "nextEvolutions": [
+        {
+            "id": 540,
+            "digimon": "Anomalocarimon",
+            "condition": "with or without Snimon",
+            "image": "https://digimon-api.com/images/digimon/w/Anomalocarimon.png",
+            "url": "https://digimon-api.com/api/v1/digimon/540"
+        },
+        {
+            "id": 482,
+            "digimon": "Gigadramon",
+            "condition": "with Dark Lizamon",
+            "image": "https://digimon-api.com/images/digimon/w/Gigadramon.png",
+            "url": "https://digimon-api.com/api/v1/digimon/482"
+        },
+        {
+            "id": null,
+            "digimon": "Brachiomon",
+            "condition": "with Yanmamon",
+            "image": "https://digimon-api.com/images/digimon/w/Brachiomon.png",
+            "url": ""
+        },
+        {
+            "id": 1004,
+            "digimon": "Tonosama Gekomon",
+            "condition": "",
+            "image": "https://digimon-api.com/images/digimon/w/Tonosama_Gekomon.png",
+            "url": "https://digimon-api.com/api/v1/digimon/1004"
+        },
+        {
+            "id": 1219,
+            "digimon": "Okuwamon",
+            "condition": "with Yanmamon or Musyamon",
+            "image": "https://digimon-api.com/images/digimon/w/Okuwamon.png",
+            "url": "https://digimon-api.com/api/v1/digimon/1219"
+        }
+    ]
+}

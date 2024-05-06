@@ -1,0 +1,17 @@
+c:\Users\hector.mcewen\Desktop\Prog 2\RESTAPI_TEST\RESTAPI_TEST\bin\Debug\net8.0\RESTAPI_TEST.exe
+c:\Users\hector.mcewen\Desktop\Prog 2\RESTAPI_TEST\RESTAPI_TEST\bin\Debug\net8.0\RESTAPI_TEST.deps.json
+c:\Users\hector.mcewen\Desktop\Prog 2\RESTAPI_TEST\RESTAPI_TEST\bin\Debug\net8.0\RESTAPI_TEST.runtimeconfig.json
+c:\Users\hector.mcewen\Desktop\Prog 2\RESTAPI_TEST\RESTAPI_TEST\bin\Debug\net8.0\RESTAPI_TEST.dll
+c:\Users\hector.mcewen\Desktop\Prog 2\RESTAPI_TEST\RESTAPI_TEST\bin\Debug\net8.0\RESTAPI_TEST.pdb
+c:\Users\hector.mcewen\Desktop\Prog 2\RESTAPI_TEST\RESTAPI_TEST\bin\Debug\net8.0\RestSharp.dll
+c:\Users\hector.mcewen\Desktop\Prog 2\RESTAPI_TEST\RESTAPI_TEST\obj\Debug\net8.0\RESTAPI_TEST.csproj.AssemblyReference.cache
+c:\Users\hector.mcewen\Desktop\Prog 2\RESTAPI_TEST\RESTAPI_TEST\obj\Debug\net8.0\RESTAPI_TEST.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hector.mcewen\Desktop\Prog 2\RESTAPI_TEST\RESTAPI_TEST\obj\Debug\net8.0\RESTAPI_TEST.AssemblyInfoInputs.cache
+c:\Users\hector.mcewen\Desktop\Prog 2\RESTAPI_TEST\RESTAPI_TEST\obj\Debug\net8.0\RESTAPI_TEST.AssemblyInfo.cs
+c:\Users\hector.mcewen\Desktop\Prog 2\RESTAPI_TEST\RESTAPI_TEST\obj\Debug\net8.0\RESTAPI_TEST.csproj.CoreCompileInputs.cache
+c:\Users\hector.mcewen\Desktop\Prog 2\RESTAPI_TEST\RESTAPI_TEST\obj\Debug\net8.0\RESTAPI_TEST.csproj.CopyComplete
+c:\Users\hector.mcewen\Desktop\Prog 2\RESTAPI_TEST\RESTAPI_TEST\obj\Debug\net8.0\RESTAPI_TEST.dll
+c:\Users\hector.mcewen\Desktop\Prog 2\RESTAPI_TEST\RESTAPI_TEST\obj\Debug\net8.0\refint\RESTAPI_TEST.dll
+c:\Users\hector.mcewen\Desktop\Prog 2\RESTAPI_TEST\RESTAPI_TEST\obj\Debug\net8.0\RESTAPI_TEST.pdb
+c:\Users\hector.mcewen\Desktop\Prog 2\RESTAPI_TEST\RESTAPI_TEST\obj\Debug\net8.0\RESTAPI_TEST.genruntimeconfig.cache
+c:\Users\hector.mcewen\Desktop\Prog 2\RESTAPI_TEST\RESTAPI_TEST\obj\Debug\net8.0\ref\RESTAPI_TEST.dll
